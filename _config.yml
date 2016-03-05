@@ -1,6 +1,6 @@
 name: trump
 favicon: null
-layout_spectrum: 0.21992
+layout_spectrum: 0
 typography_spectrum: 0.69969
 title: 'TRUMP: When I am Your Leader'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#8f9883'
     - '#79826d'
     - '#43523b'
-  brandStrength: 0.1168812750838697
+  brandStrength: 0.5
   lightness: 0.5985909339506179
   saturation: 0.013491207733750343
   rhythmicContrast: 0.6471927193924785
